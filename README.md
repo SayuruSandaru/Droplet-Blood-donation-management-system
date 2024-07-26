@@ -30,7 +30,7 @@ To install and run the Blood Donation Management System locally, follow these st
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/blood-donation-management.git
+   git clone https://github.com/SayuruSandaru/Blood_Bank_Managment_System.git
    cd blood-donation-management
    ```
 
