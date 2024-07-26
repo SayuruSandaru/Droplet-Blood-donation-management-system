@@ -101,8 +101,11 @@
                                 <div class="font-italic">Contact Number<span class="required"></span></div>
                                 <div><input type="tel" name="contactNumber" class="form-control" required></div>
                             </div>
+                            <div class="col-lg-4 mb-4"><br>
+                                <div class="font-italic">Email<span class="required"></span></div>
+                                <div><input type="email" name="email" class="form-control" required></div>
+                            </div>
                         </div>
-
                         <div class="row">
                             <div class="col-lg-4 mb-4"><br>
                                 <div class="font-italic">Blood Type<span class="required"></span></div>
